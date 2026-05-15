@@ -60,3 +60,5 @@ Thumbs.db
 # Testing
 .coverage
 htmlcov/
+
+github.key
